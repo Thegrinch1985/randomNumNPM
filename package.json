@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@babel/helper-member-expression-to-functions": "^7.0.0",
+    "aa": "^0.1.40",
+    "babel-helpers": "^6.24.1",
+    "underscore": "^1.9.1"
+  }
 }
